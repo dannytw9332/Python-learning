@@ -9,4 +9,4 @@ FreeCodeCamp
 https://www.freecodecamp.org/learn/scientific-computing-with-python/
 
 
-I will update my process continuously. 
+I will update my learning continuously. 
