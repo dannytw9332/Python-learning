@@ -1,0 +1,28 @@
+#---first block---
+#This part is to learn if loop
+x = 6
+if x < 5:
+    print("x value is lower than 5.")
+elif x==5:
+    print("x value is same as 5.")
+else:
+    print("x value is larger than 5.")
+
+
+#---second block---
+#Used logical operators to make multiple conditions.
+a = 3
+b = 5
+c = 10
+
+if b < a and c < a:
+    print("a has the largest value.")
+else:
+    print("a hasn't the largest value.")
+
+print("-------separated line-------")
+    
+if b < a or c < a:
+    print("b may be larger than a or c")
+else:
+    print("b has the smallest value")
